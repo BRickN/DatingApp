@@ -30,6 +30,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+[![Product Name Screen Shot][product-screenshot]]![Alt text](/Screenshots/Screen1.jpg?raw=true "Matches")
+[![Product Name Screen Shot][product-screenshot]]![Alt text](/Screenshots/Screen2.jpg?raw=true "Chat")
 Udemy Course regarding a Dating App with an ASPNET Core API and Angular.
 https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/
 
@@ -44,7 +46,7 @@ Tools used:
 ### Built With
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![CSharp][CSharp.com][CSharp-url]
+* [![CSharp][CSharp.com]][CSharp-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Learning Goals
@@ -65,9 +67,9 @@ Tools used:
 
 ### Installation
 Run api project:
-* npm
+* dotnet
   ```sh
-  npm run build
+  dotnet watch run
   ```
 
 Serve angular application:
