@@ -44,7 +44,7 @@ Tools used:
 
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![CSharp.com][CSharp][CSharp.com]
+* [![CSharp][CSharp.com][CSharp]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,6 +57,7 @@ Run api project:
   ```
 
 Serve angular application:
+* ng
   ```sh
   ng serve
   ```
@@ -96,3 +97,4 @@ Serve angular application:
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [CSharp.com]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[CSharp-url]: https://dotnet.microsoft.com/en-us/download
