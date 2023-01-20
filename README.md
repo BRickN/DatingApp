@@ -24,7 +24,6 @@
       </ul>
     </li>
     <li><a href="#learning-goals">Learning Goals</a></li>
-    <li><a href="#installation">Installation</a></li>
   </ol>
 </details>
 
@@ -64,20 +63,6 @@ Tools used:
 * Display notifications in Angular
 * Handling errors in the API and the SPA
 * Real time notifications and presence using SignalR
-
-### Installation
-Run api project:
-* dotnet
-  ```sh
-  dotnet watch run
-  ```
-
-Serve angular application:
-* ng
-  ```sh
-  ng serve
-  ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
