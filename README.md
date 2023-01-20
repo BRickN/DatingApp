@@ -30,8 +30,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]]![Alt text](/Screenshots/Screen1.jpg?raw=true "Matches")
-[![Product Name Screen Shot][product-screenshot]]![Alt text](/Screenshots/Screen2.jpg?raw=true "Chat")
+![Alt text](/Screenshots/Screen1.jpg?raw=true "Matches")
+![Alt text](/Screenshots/Screen2.jpg?raw=true "Chat")
 Udemy Course regarding a Dating App with an ASPNET Core API and Angular.
 https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/
 
