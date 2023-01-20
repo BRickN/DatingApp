@@ -24,6 +24,7 @@
       </ul>
     </li>
     <li><a href="#learning-goals">Learning Goals</a></li>
+    <li><a href="#installation">Installation</a></li>
   </ol>
 </details>
 
@@ -41,15 +42,28 @@ Tools used:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![CSharp][CSharp.com][CSharp]
-
+* [![CSharp][CSharp.com][CSharp-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Installation
+### Learning Goals
+* Learn how to build a web application from start to publishing using ASPNET Core (v2.1), Entity Framework Core and Angular (v6)
+* Understand how to structure an Angular application using best practices
+* Use Visual Studio code effectively to improve workflow
+* Implement drag and drop photo upload integrating into a cloud platform
+* Implement filtering, sorting and paging of data
+* Implement Authentication using JWT Authentication tokens
+* Persist data using Entity Framework Core
+* Students who complete this course will have a practical understanding of Angular and ASPNET Core
+* Learn how to integrate 3rd party components into the Angular application
+* Use AutoMapper
+* Implement a private messaging system
+* Display notifications in Angular
+* Handling errors in the API and the SPA
+* Real time notifications and presence using SignalR
 
+### Installation
 Run api project:
 * npm
   ```sh
@@ -61,7 +75,6 @@ Serve angular application:
   ```sh
   ng serve
   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
